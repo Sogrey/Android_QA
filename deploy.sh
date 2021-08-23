@@ -21,7 +21,7 @@ git add -A
 git commit -m 'deploy master'
 
 # 如果你想要部署到 https://USERNAME.github.io
-git push -f https://github.com/Sogrey/Android_QA.git master
+git push -f git@github.com:Sogrey/Android_QA.git master
 echo -e ""
 echo -e "\033[32;40m [2/3] \033[0m Building static files"
 echo -e ""
@@ -48,6 +48,6 @@ git commit -m 'deploy gh-pages'
 # git push -f git@github.com:USERNAME/<REPO>.git master:gh-pages
 
 #git push -f git@github.com:Sogrey/VuepressBlogEdit.git master:gh-pages
-git push -f https://github.com/Sogrey/Android_QA.git master:gh-pages
+git push -f git@github.com:Sogrey/Android_QA.git master:gh-pages
 
 cd -
