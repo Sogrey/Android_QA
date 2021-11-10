@@ -17,11 +17,11 @@
     "acorn": ">=8.5.0",
     "braces": ">=3.0.2",
     "minimist": ">=1.2.5",
-    "serialize-javascript": ">=6.0.0"
+    "serialize-javascript": ">=6.0.0",
+    "update-notifier": "^4.0.0",
+    "websocket-extensions": ">=0.1.4"
   },
   "dependencies": {
-    "update-notifier": "^4.0.0",
-    "vuepress": "^1.8.2",
-    "websocket-extensions": ">=0.1.4"
+    "vuepress": "^1.8.2"
   }
 }
