@@ -599,4 +599,7 @@ D.int show(int a,float c){return a;}
 - **feelschaotic/AndroidKnowledgeSystem** 你想要的最全 Android 进阶路线知识图谱+干货资料收集
 <div class="github-widget" data-repo="feelschaotic/AndroidKnowledgeSystem"></div>
 
+- **Skykai521/AndroidDeveloperAdvancedManual** Android 工程师进阶手册（8 年 Android 开发者的成长感悟）
+<div class="github-widget" data-repo="Skykai521/AndroidDeveloperAdvancedManual"></div>
+
 <div><script type="text/javascript" src="https://git.hust.cc/GitHub-Repo-Widget.js/GithubRepoWidget.js"></script></div>
